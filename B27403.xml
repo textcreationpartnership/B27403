@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>They that have any friends distracted or melancholy are desired to accept this: and, they that have none, not to reject it but rather to lay it by them, that they may, when they hear of any that are so, inform their friends; who also may be desirous to hear of one that is faithful and expert in these distempers;...</title>
+            <author>Newton, James, fl. 1675.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27403</idno><idno type="EEBO-CITATION">99888669</idno>
+  <idno type="VID">195877</idno>
+  <idno type="EEBO-PROQUEST">2240901950</idno>
+  
+            <idno type="STC">Wing N1051A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[72]</idno>
+            <idno type="STC">ESTC R231504</idno>
+            <idno type="PROQUEST">ocm99888669</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888669e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27403)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195877)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[73])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>They that have any friends distracted or melancholy are desired to accept this: and, they that have none, not to reject it but rather to lay it by them, that they may, when they hear of any that are so, inform their friends; who also may be desirous to hear of one that is faithful and expert in these distempers;...</title>
+                  <author>Newton, James, fl. 1675.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1675?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint information from Wing.</note>
+                  <note>Imperfect: torn at foot and closely cropped with some loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Drugs --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:195877:1"/>
+            <p>THey that have any Friends <hi>Distracted</hi> or <hi>Melancholy</hi> are desired to accept this: and, they that have none, not to reject it: but rather to lay it by them, that they may, when they hear of any that are So, inform their Friends; who also may be desirous to hear of one that is Faithful and Expert in these Distempers: Which, if Providence this way bring them to me, when they first fall ill, I doubt not but they will have Cause to bless God, and thank them that so happily inform'd them: Or, though it may be, after all other ways have failed, yet they may be cured by my means, which hath recovered in seven weeks time some that have been twelve years Madd, and 60 years of Age: and others that have been sixteen years Melancholy in six <hi>Months:</hi> though some kinds of this Di<g ref="char:EOLhyphen"/>stemper, of less continuance, in some may be dubious. I hereby seek not Applause, yet would I not be vilified: 'Tis not more my own than others Good I aim at; Nor do I seek more to cure the Rich for Reward, than the Poor <hi>gratis,</hi> but I labour by all means to Cure both, rather than keep either in my House for Advantage. I mi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ht give many instances of it, but I'le Name, and that without picking, only Four of the Parish where I now live, whereby you may judge. The first was a Woman, put to me by the Churchwardens in 1672. who was much given to Swear and Tear, having a very Soar Breast, and many other very grievious soars made by binding her in Bed with cords, though she was through weakness not able to stand without hold, yet was she and all her Soars perfectly cured in 3 <hi>Weeks.</hi> The second was a man whose D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stemper was of another kind, he being so void of Sense and Reason as not to know any thing that was said or done unto him, he would, when his hands were at liberty, most vigorously beat himself on his breast, and tear the hair off his head, &amp; afterwards ly as in a Convulsion fit; he had also a great swelling in his neck, which became well, and he perfectly cured in 4 <hi>Days.</hi> The third was a man put to me by the Overseers of the Poor in 1674 whose distemper varied from the other; wherefore, because I would not say he should be K <hi>Charles</hi> II. he commanded the standers by to take off my head, for he would be K. <hi>Charles</hi> II. whether I would or not; yet at times he would discourse rati<g ref="char:EOLhyphen"/>onally: he was perfectly cured in six Days. The fourth, was a woman differing from the rest, being altogether Melancholy, lame on one side, supposing her self to be more miserable than any other, and that a Plaister which a woman had applied to her forhead, was so very ponderous, that if she should but stoop to the ground, she should never be able to rise again, so would often mourn: but she also was cured in 4 <hi>Weeks.</hi> The last 10 I had went away in a short time very well, except one that was 2, another 3, and the third 4 <hi>Months:</hi> besides these nominated, several others have been cured in a week, or very few weeks time: yet 'tis possible, others may require more time than any of these; though all these had been under other means rather to their d triment than advantage<note n="*" place="bottom">Let those that object do the like, hereby, may that place be eased, and the <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Safest way of Cure made apparent.</note> Note also, that never any was Moped by use of my means, but several that have been subject to Fits, and other bad Symptoms, have not had the like after cured by my means. The Truth of what I here affirm will easily be confirmed, if those that doubt hereof will but apply themselves to me <hi>James Newton,</hi> at my house on Clarken-well Green; where I am ready to give an ingenious Account of my carriage to, Care and Industry on such person: with the Cures that I have, through the Assistance of the Almighty, perform'd without danger of Relapse. — <hi>Now if any Skil'd in these Distempers object any thing; I am very willing for their satisfaction, if I may have Liberty, to take</hi> 3 <hi>persons out of</hi> Bed<g ref="char:EOLunhyphen"/>lam <hi>that have been there several years, and to bestow all Necessaries upon them</hi> gratis.—</p>
+         </div>
+      </body>
+   </text>
+</TEI>
